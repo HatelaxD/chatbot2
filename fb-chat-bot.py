@@ -484,7 +484,7 @@ class ChatBot(Client):
             elif("crazy" in msg):
                 reply = "Anything wrong about that."
                 sendMsg()
-            elif ("are funny" in msg):
+            elif ("bot you are gandu" in msg):
                 reply = "No. I am not. You are."
                 sendMsg()
             elif ("marry me" in msg):

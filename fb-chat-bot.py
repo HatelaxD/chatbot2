@@ -502,8 +502,8 @@ class ChatBot(Client):
             elif ("no problem" in msg):
                 reply = "Okay😊🙂"
                 sendMsg()
-            elif (" *bot gand da da" in msg):
-                reply = "Maan ki la la man jay ga 🙂"
+            elif (" *Bot gand da da" in msg):
+                reply = "Maan ki la la man jay ga🙂"
                 sendMsg()
             elif ("thanks" in msg):
                 reply = "You're welcome🙂"
